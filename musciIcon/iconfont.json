@@ -1,0 +1,79 @@
+{
+  "id": "2999461",
+  "name": "music",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "18828410",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "22774563",
+      "name": "发现_私人FM",
+      "font_class": "faxian_sirenFM",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "162727",
+      "name": "列表2",
+      "font_class": "liebiao2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "629357",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "5387806",
+      "name": "播放_o",
+      "font_class": "bofang_o",
+      "unicode": "eb5e",
+      "unicode_decimal": 60254
+    },
+    {
+      "icon_id": "5387839",
+      "name": "暂停_o",
+      "font_class": "zanting_o",
+      "unicode": "eb6c",
+      "unicode_decimal": 60268
+    },
+    {
+      "icon_id": "16107689",
+      "name": "排行榜",
+      "font_class": "paihangbang",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "18399268",
+      "name": "歌单",
+      "font_class": "songlist-01",
+      "unicode": "e703",
+      "unicode_decimal": 59139
+    },
+    {
+      "icon_id": "20968512",
+      "name": "播放列表",
+      "font_class": "bofangliebiao",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "25671603",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "fe4f",
+      "unicode_decimal": 65103
+    }
+  ]
+}
